@@ -1,4 +1,4 @@
-# Assignment 1 – COVID-19 Data Analysis with Pandas
+# COVID-19 Data Analysis with Pandas
 
 This repository presents data analysis of real-world COVID-19 daily report data using Python and Pandas, with a focus on answering structured analytical questions from a provided dataset.
 
