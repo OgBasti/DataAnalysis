@@ -1,4 +1,4 @@
-# RMBA Project – HR Analytics and Employee Attrition Analysis
+# HR Analytics and Employee Attrition Analysis
 
 This repository contains a statistical analysis project completed for the course **Research Methods for Business Analytics**, focused on understanding employee attrition through data exploration, assumption testing, and regression modeling.
 
